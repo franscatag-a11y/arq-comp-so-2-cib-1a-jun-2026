@@ -6,3 +6,8 @@ Repository for the course
 **Practica 1**
 
 ![fork](imgs/fork.png).
+
+
+**Practica 2**
+
+![Nandgame](imgs/Nandgame.png).
