@@ -11,3 +11,6 @@ Repository for the course
 **Practica 2**
 
 ![Nandgame](imgs/Nandgame.png).
+
+**arp -a**
+![arp -a](imgs/arp -a.png).
