@@ -13,4 +13,4 @@ Repository for the course
 ![Nandgame](imgs/Nandgame.png).
 
 **arp -a**
-![arp -a](imgs/arp -a.png).
+![arp -a](imgs/arp-a.png).
